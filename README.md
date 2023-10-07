@@ -25,7 +25,7 @@ step -> 1 composer install
    ![image](https://github.com/amitscotocus/multi-auth-laravel-9/assets/73776438/a6c55998-8b4e-4d7c-b727-1416507e2ae8)
 
 
-    ![image](https://github.com/amitscotocus/multi-auth-laravel-9/assets/73776438/ea6e44a8-8221-483d-ae17-08896feb4e35)
+![image](https://github.com/amitscotocus/multi-auth-laravel-9/assets/73776438/dc388541-9559-4952-a312-5380c345e415)
 
 
     As same you can login with manager and user put as per credentials
